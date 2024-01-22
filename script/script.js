@@ -45,5 +45,5 @@ const res = employees
        salary: salary
     }));
 
-console.log(res); 
+console.log(res);
        
